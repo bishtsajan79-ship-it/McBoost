@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://bishtsajan79-ship-it.github.io/McBoost/sitemap.xml
